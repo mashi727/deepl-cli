@@ -1,0 +1,6 @@
+old/
+__pycache__/
+.deepl_apikey
+.DS_Store
+.qt_for_python/
+.vscode/

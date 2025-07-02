@@ -1,0 +1,2376 @@
+1
+00:00:00,000 --> 00:00:15,760
+Coming up on Plane Crazy Down Under, we're joined by Lockheed Martin F-35 test pilot
+
+2
+00:00:15,760 --> 00:00:22,040
+Tony Brick-Wilson to discuss his flying career and find out a little about his amazing role.
+
+3
+00:00:22,040 --> 00:00:28,160
+Every Australian aircraft that has come off of the line, either I or a member of my team
+
+4
+00:00:28,160 --> 00:00:29,440
+have flown it.
+
+5
+00:00:29,440 --> 00:00:34,480
+And as this fifth generation jet continues to evolve, Director of F-35 International
+
+6
+00:00:34,480 --> 00:00:40,600
+Business Development Stephen Over talks about coming upgrades we can expect on RAAF models.
+
+7
+00:00:40,600 --> 00:00:45,000
+This year we're breaking into production a new computing baseline that will update the
+
+8
+00:00:45,000 --> 00:00:49,600
+main mission computer on the aircraft, the computer that supports the cockpit displays
+
+9
+00:00:49,600 --> 00:00:51,480
+and the aircraft memory system.
+
+10
+00:00:51,480 --> 00:00:55,440
+High flying, high tech, and one of the coolest jobs on earth.
+
+11
+00:00:55,440 --> 00:01:03,040
+It's all ahead as we get Plane Crazy.
+
+12
+00:01:03,040 --> 00:01:04,040
+Well hi everyone.
+
+13
+00:01:04,040 --> 00:01:05,040
+Welcome back to the show.
+
+14
+00:01:05,040 --> 00:01:06,040
+It's great to have you with us.
+
+15
+00:01:06,040 --> 00:01:10,240
+This is of course the program where we like to take a look at Australia's aviation industry
+
+16
+00:01:10,240 --> 00:01:13,680
+and of course aviation all around this part of the world.
+
+17
+00:01:13,680 --> 00:01:14,680
+I'm Steve Vischer.
+
+18
+00:01:14,680 --> 00:01:16,520
+Joining me as always is my good friend Grant McGarren.
+
+19
+00:01:16,520 --> 00:01:17,520
+How are you mate?
+
+20
+00:01:17,520 --> 00:01:18,520
+Hey, not too bad buddy.
+
+21
+00:01:18,520 --> 00:01:19,520
+How are you doing?
+
+22
+00:01:19,520 --> 00:01:22,480
+I'm doing very well and of course really looking forward to this episode.
+
+23
+00:01:23,120 --> 00:01:27,240
+I'm always doing well when we're about to talk about fast jets and we've got a really
+
+24
+00:01:27,240 --> 00:01:30,000
+good guest waiting for us who we'll introduce in just a few minutes.
+
+25
+00:01:30,000 --> 00:01:34,520
+We're going to be covering the F-35 of course which is a maturing platform of course.
+
+26
+00:01:34,520 --> 00:01:35,520
+We've covered this before.
+
+27
+00:01:35,520 --> 00:01:40,000
+I remember back to episode 119 Grant when we first started really looking in depth at
+
+28
+00:01:40,000 --> 00:01:41,000
+the F-35.
+
+29
+00:01:41,000 --> 00:01:46,920
+I think that was probably back in about 2014 or somewhere around there and it's certainly
+
+30
+00:01:46,920 --> 00:01:52,040
+become a mature platform these days and a lot has happened and a lot of development
+
+31
+00:01:52,040 --> 00:01:53,040
+has gone on.
+
+32
+00:01:53,040 --> 00:01:57,160
+It certainly has mate and the big key phrase that we're hearing again and again is of course
+
+33
+00:01:57,160 --> 00:02:02,280
+sensor fusion and how the F-35 brings everything together so the pilot doesn't have to build
+
+34
+00:02:02,280 --> 00:02:06,240
+their situational awareness from multiple screens and inputs from all the different
+
+35
+00:02:06,240 --> 00:02:09,920
+sensors but the actual platform does it for them.
+
+36
+00:02:09,920 --> 00:02:14,360
+And mate I think we should get straight on to it because we've got Tony Wilson, Chief
+
+37
+00:02:14,360 --> 00:02:17,480
+of Fighter Flight Operations at Lockheed Martin on standby.
+
+38
+00:02:17,480 --> 00:02:18,760
+Should we get straight into it?
+
+39
+00:02:18,760 --> 00:02:19,760
+Let's do it.
+
+40
+00:02:19,760 --> 00:02:20,760
+Well g'day Tony.
+
+41
+00:02:20,760 --> 00:02:21,760
+How are you doing?
+
+42
+00:02:22,480 --> 00:02:23,480
+Fantastic.
+
+43
+00:02:23,480 --> 00:02:24,480
+I really appreciate you guys having me on.
+
+44
+00:02:24,480 --> 00:02:26,240
+I'm really excited about this.
+
+45
+00:02:26,240 --> 00:02:30,000
+Well Tony we'll kick off with the most important question of all and it's not going to be about
+
+46
+00:02:30,000 --> 00:02:35,360
+your call sign of brick which we'll also refer to you as but we'll come to that later.
+
+47
+00:02:35,360 --> 00:02:37,080
+What got you into aviation?
+
+48
+00:02:37,080 --> 00:02:42,960
+You know I think the story of what got me into aviation is not really different than
+
+49
+00:02:42,960 --> 00:02:48,120
+any other aviation geek or nerd out there.
+
+50
+00:02:48,120 --> 00:02:51,320
+We all come from a place and we all have some sort of connection with it.
+
+51
+00:02:51,320 --> 00:02:53,880
+Mine came from my grandfather.
+
+52
+00:02:53,880 --> 00:03:00,240
+My grandfather had a love of aviation and from as long as I can remember he used to
+
+53
+00:03:00,240 --> 00:03:05,200
+take me to the airport and we would watch sit there and watch planes and we would bond
+
+54
+00:03:05,200 --> 00:03:06,760
+over it.
+
+55
+00:03:06,760 --> 00:03:11,040
+But I can tell you the moment that was solidified for me of when I would pursue this career
+
+56
+00:03:11,040 --> 00:03:18,540
+I grew up in South Florida in the early and mid 70s and we took a trip up to Kennedy Space
+
+57
+00:03:18,860 --> 00:03:26,140
+before the space shuttle had been flying but they had a life-size model of the shuttle
+
+58
+00:03:26,140 --> 00:03:30,660
+parked outside of the rocket assembly building and I can remember coming around the corner
+
+59
+00:03:30,660 --> 00:03:36,380
+and looking at this awesome machine and I turned to my teacher and I said hey how do
+
+60
+00:03:36,380 --> 00:03:41,060
+I get to fly that and she's like well Tony you have to be one of the best test pilots
+
+61
+00:03:41,060 --> 00:03:46,540
+in the world to get to do that and I was like ah I can do that now I'm not saying I'm the
+
+62
+00:03:46,580 --> 00:03:52,580
+best test pilot or even I'm a mediocre test pilot at best but that was what really propelled
+
+63
+00:03:52,580 --> 00:03:54,020
+me into this career.
+
+64
+00:03:54,020 --> 00:03:58,580
+Because Florida really has a really rich aviation scene there doesn't it I mean there's so much
+
+65
+00:03:58,580 --> 00:04:02,460
+going on in aviation there it's probably hard not to get hooked if you live there.
+
+66
+00:04:02,460 --> 00:04:11,460
+Yeah absolutely you have Kennedy Space Center, multiple service bases you know McDill, Homestead,
+
+67
+00:04:11,540 --> 00:04:18,540
+Loredale International used to actually be a naval air station way back right and you
+
+68
+00:04:18,700 --> 00:04:25,700
+know pick almost any aerospace industry they've got some presence in Florida absolutely.
+
+69
+00:04:25,940 --> 00:04:32,700
+So living in Florida you got the bug can you step us through your career to date?
+
+70
+00:04:32,700 --> 00:04:39,700
+Absolutely so I actually started off my career at the age of 19 I enlisted in the US Navy
+
+71
+00:04:39,700 --> 00:04:45,140
+and that was a result of me not being the best student coming through high school or
+
+72
+00:04:45,140 --> 00:04:52,020
+my first attempt at university and the Navy sent me to nuclear power school where I learned
+
+73
+00:04:52,020 --> 00:04:54,380
+to run nuclear reactors.
+
+74
+00:04:54,380 --> 00:05:01,380
+I did that for a couple years on a fast attack submarine where I was fortunate enough to
+
+75
+00:05:02,220 --> 00:05:05,060
+earn a slot in an officer program.
+
+76
+00:05:05,100 --> 00:05:10,060
+So I went off went back to university did much better this time earning a bachelor's
+
+77
+00:05:10,060 --> 00:05:17,060
+degree in mechanical engineering and then off to flight school in Pensacola Florida.
+
+78
+00:05:17,740 --> 00:05:24,740
+I took to fly in you know very naturally I did very well in flight school and earned
+
+79
+00:05:26,020 --> 00:05:33,020
+a jet slot I went on to jet training which I did in Meridian Mississippi.
+
+80
+00:05:34,020 --> 00:05:41,020
+Earned my wings of gold and went on to fly the F-18C so did that went through training
+
+81
+00:05:42,980 --> 00:05:49,980
+to what we call the replacement air group training squadron and then reported to VFA-87
+
+82
+00:05:53,700 --> 00:05:55,940
+for my first fleet squadron.
+
+83
+00:05:55,940 --> 00:06:02,140
+While I was with VFA-87 we deployed in support of Operation Iraqi Freedom I was flying off
+
+84
+00:06:02,220 --> 00:06:05,020
+the USS Roosevelt at the time.
+
+85
+00:06:05,020 --> 00:06:11,860
+At the completion of that tour again I was fortunate enough to be selected and earn a
+
+86
+00:06:11,860 --> 00:06:18,860
+slot for Navy test pilot school the Navy sent me off to earn my master's in aeronautical
+
+87
+00:06:18,980 --> 00:06:24,900
+engineering first and then off to test pilot school I did that for a year.
+
+88
+00:06:24,900 --> 00:06:29,860
+Upon completion and graduation of test pilot school my first assignment was to work the
+
+89
+00:06:29,900 --> 00:06:36,900
+F-35 program a very fortunate project coming out of test pilot school brand new test pilot.
+
+90
+00:06:37,900 --> 00:06:44,900
+I did that for about three years and then returned to the fleet flying F-18F super hornets
+
+91
+00:06:46,500 --> 00:06:52,340
+forward deployed in Japan off the George Washington.
+
+92
+00:06:52,340 --> 00:06:57,540
+We lived in Japan for two and a half years and returned back to the test community back
+
+93
+00:06:57,580 --> 00:07:04,580
+to the F-35 program where I was heavily involved in testing both the F-35B and the F-35C but
+
+94
+00:07:05,980 --> 00:07:12,980
+primarily the F-35C specifically preparing the aircraft to go to the aircraft carrier
+
+95
+00:07:14,220 --> 00:07:21,220
+which culminated in me getting to take the F-35C to the USS Nimitz in November of 2014.
+
+96
+00:07:22,220 --> 00:07:29,220
+I finished up my Navy career in 2016 and was fortunate enough to be hired on or I should
+
+97
+00:07:29,420 --> 00:07:36,420
+say joined Lockheed Martin as a test pilot and in 2018 I was selected to become the chief
+
+98
+00:07:38,300 --> 00:07:45,020
+of fighter flight ops still get to fly the F-35 but now I get to lead a fantastic team
+
+99
+00:07:45,020 --> 00:07:51,020
+of pilots all of the fighter pilots that are currently flying for Lockheed Martin so F-16
+
+100
+00:07:51,820 --> 00:07:58,820
+F-22 F-35 and whatever special projects that we have come up fantastic.
+
+101
+00:07:58,820 --> 00:08:04,260
+It's a tough life yeah they let me wear a flight suit to work and I still get to fly
+
+102
+00:08:04,260 --> 00:08:11,260
+high high performance machines so yeah best of all worlds exactly so a quick side question
+
+103
+00:08:11,540 --> 00:08:18,540
+then did you have much to do with Billy Flynn yes I know Billy very well.
+
+104
+00:08:18,660 --> 00:08:25,660
+So Billy and I overlapped at Pax River when I showed up during my second tour as an active
+
+105
+00:08:27,460 --> 00:08:34,460
+duty Navy pilot he was working for Lockheed at the time so that would have been 2013 we
+
+106
+00:08:36,260 --> 00:08:43,260
+worked closely together on the F-35 program then and then naturally when I joined Lockheed
+
+107
+00:08:43,940 --> 00:08:50,580
+Martin I continued to work with Billy until his retirement and I forget the exact date
+
+108
+00:08:50,580 --> 00:08:55,140
+you know 2018-2019 time frame cool yeah we've had him on the show before I ran into him
+
+109
+00:08:55,140 --> 00:09:00,180
+at Avalon so I'm hoping to okay we're going to see if we can get him back on he's quite
+
+110
+00:09:00,180 --> 00:09:05,540
+happy to chat with us again so we obviously didn't scare him off last time but so you've
+
+111
+00:09:05,540 --> 00:09:11,580
+mentioned that you were primarily on the 35 Bravo and Charlie when you were at the Navy
+
+112
+00:09:11,620 --> 00:09:16,780
+test pilot but I guess now you're flying all variants aren't you I fly all three variants
+
+113
+00:09:16,780 --> 00:09:22,780
+at Fort Worth our role here at Fort Worth is to take each and every aircraft as it rolls
+
+114
+00:09:22,780 --> 00:09:29,780
+off the factory floor and take it airborne for the first time so in this capacity you
+
+115
+00:09:30,540 --> 00:09:37,540
+know the A model and the C model the A model being the Air Force model conventional takeoff
+
+116
+00:09:37,820 --> 00:09:44,820
+and landing from runways and the C model the Navy version the CV variant we fly two flights
+
+117
+00:09:46,020 --> 00:09:53,020
+on each of those the B model the Stovall the hovering aircraft that gets a third flight
+
+118
+00:09:53,220 --> 00:09:58,140
+but on all three variants the first flight we are primarily checking out the vehicle
+
+119
+00:09:58,140 --> 00:10:05,140
+systems right is the aircraft built to the quality that we expect and demand from Lockheed
+
+120
+00:10:05,900 --> 00:10:10,740
+Martin to make sure that we're sending the best aircraft out to you know the war fighters
+
+121
+00:10:10,740 --> 00:10:16,620
+the men and women that are going to take this into harm's way the subsequent flights are
+
+122
+00:10:16,620 --> 00:10:21,380
+used to check out our mission systems which that's really where the magic of the F-35
+
+123
+00:10:21,380 --> 00:10:25,380
+resides in our mission systems and sensor fusion so we want to make sure that that's
+
+124
+00:10:25,380 --> 00:10:32,220
+all working properly and integrated per design and then like I said that B model gets a third
+
+125
+00:10:32,220 --> 00:10:37,700
+flight just to check out the Stovall systems. One of the selling points that people like
+
+126
+00:10:37,700 --> 00:10:42,540
+Billy Flynn have told us about in the past when we've interviewed him is the idea of
+
+127
+00:10:42,540 --> 00:10:47,740
+making transition into or even variations between the three different variants very
+
+128
+00:10:47,740 --> 00:10:52,340
+very similar making it easier for the pilot when you're the Stovall aspect of the B model
+
+129
+00:10:52,340 --> 00:10:56,700
+of course aside are they very different to fly between the three or are they when you
+
+130
+00:10:56,700 --> 00:11:01,260
+get in is it something that's actually really seamless for you to really adapt to? It's
+
+131
+00:11:01,260 --> 00:11:05,820
+seamless and I think that's one of the fantastic things that Lockheed Martin did with the F-35
+
+132
+00:11:05,820 --> 00:11:14,180
+whether I'm in an A a B or a C they all fly almost identical the mission systems are identical so
+
+133
+00:11:14,180 --> 00:11:19,820
+when I'm employing the aircraft you know I'm solving tactical challenges with it it's the
+
+134
+00:11:19,820 --> 00:11:25,620
+same right really the big difference is you know how they take off and land and how much
+
+135
+00:11:25,620 --> 00:11:31,340
+fuel they carry the the A model carries about 18,000 pounds the B model carries about 13,000
+
+136
+00:11:31,340 --> 00:11:37,860
+pounds you give up some fuel for the lift system and then the C model because of the the larger
+
+137
+00:11:37,860 --> 00:11:45,420
+wings you get a little extra fuel about 18,000 pounds 19,000 pounds and flying the B model I
+
+138
+00:11:45,420 --> 00:11:50,340
+mean is is that a heavier aircraft or is is one compensated from the other in terms of less fuel
+
+139
+00:11:50,340 --> 00:11:56,420
+versus the extra weight of the lift fan? So the the flight control system that our flight
+
+140
+00:11:56,420 --> 00:12:03,180
+control engineers put into this aircraft it's a really carefree handling so you really don't
+
+141
+00:12:03,180 --> 00:12:12,140
+notice any shift in CG or really the difference in weight they all fly almost identical you know
+
+142
+00:12:12,140 --> 00:12:17,420
+and that's that's really a strength because we're already seeing it on the US side with pilot
+
+143
+00:12:17,420 --> 00:12:23,980
+exchanges Air Force pilots going and flying different variants you know Navy and Marine
+
+144
+00:12:23,980 --> 00:12:30,740
+Corps pilots flying different variants and then even within you know our allies you know I think
+
+145
+00:12:30,740 --> 00:12:37,820
+it was just last year we had US Marine Corps B models flying with the Italians off of their
+
+146
+00:12:37,820 --> 00:12:43,020
+carrier right because it's the same aircraft. So I've been fortunate enough to get into the
+
+147
+00:12:43,020 --> 00:12:48,740
+cockpit demonstrator that was going around air shows and and you know demonstrations and things
+
+148
+00:12:48,740 --> 00:12:54,500
+like that and just flying it with that big screen of multi screens made up in front was pretty
+
+149
+00:12:54,500 --> 00:13:01,180
+amazing but I never got the chance to try an F-35 even a demo helmet to see what it was like from
+
+150
+00:13:01,180 --> 00:13:09,300
+the inside. How is that transition getting into the the helmet and transitioning into the F-35
+
+151
+00:13:09,300 --> 00:13:16,020
+what did that what was that like? So the biggest thing that pilots will first notice so I flew
+
+152
+00:13:16,020 --> 00:13:23,540
+the Gehmics 1 I have not had the opportunity to fly the Joint Helmet Mounted Queuing 2 but I also
+
+153
+00:13:23,540 --> 00:13:33,020
+believe that's a monocular so I went from a monocular system one projector to a binocular
+
+154
+00:13:33,020 --> 00:13:40,700
+system in the F-35 helmet so that took a I was surprised that took a little bit of getting used
+
+155
+00:13:40,700 --> 00:13:49,260
+to training your non-dominant eye to you know take in the symbology. With that being said it's still
+
+156
+00:13:49,260 --> 00:13:57,240
+a quick transition right so one of the things that pilots will first notice is the F-35 helmet
+
+157
+00:13:57,240 --> 00:14:03,200
+is probably the most comfortable helmet that a fighter pilot gets because one it's custom fit
+
+158
+00:14:03,200 --> 00:14:10,160
+to your your head when a pilot is selected to fly the F-35 one of the first things they do is we
+
+159
+00:14:10,160 --> 00:14:17,880
+send them to what's called the pilot fit facility where they put a latex cap over their over their
+
+160
+00:14:17,880 --> 00:14:25,520
+head and their head is scanned to map out all the ridges and divots and bumps and you know
+
+161
+00:14:25,520 --> 00:14:30,160
+irregularities that we all have on our skull fortunately they can't you know there's no
+
+162
+00:14:30,160 --> 00:14:36,800
+scanning of mental state because it probably would let me fly but but then that information
+
+163
+00:14:36,800 --> 00:14:45,640
+is sent off your your pads are custom cut they're sent back and then you come back the next day and
+
+164
+00:14:45,640 --> 00:14:52,600
+you put the helmet on they cut your visor so it's custom fit to you they make sure that there's no
+
+165
+00:14:52,600 --> 00:14:59,720
+hot spots or whatever you know so little tweaking of the the pads themselves so it's the best-fitting
+
+166
+00:14:59,720 --> 00:15:07,520
+helmet that I've ever worn you have active noise reduction in the ear cups and so that that's
+
+167
+00:15:07,520 --> 00:15:17,120
+fantastic you know it's like flying really reduces a lot of the noise but there is a there is a
+
+168
+00:15:17,120 --> 00:15:28,040
+transition the the pilot will spend the next couple of days tweaking the helmet and exactly
+
+169
+00:15:28,040 --> 00:15:35,320
+where the displays are to make sure that it is it's zeroed in right because if you compare it to
+
+170
+00:15:35,320 --> 00:15:42,440
+say you know the jahamics the field of view that is projected is much wider than the field of view
+
+171
+00:15:42,440 --> 00:15:49,720
+that is projected on an f-35 helmet if there you can see pictures out there where the display the
+
+172
+00:15:49,720 --> 00:15:54,920
+actual size of the display it's not much larger than the human pupil right and then and that's
+
+173
+00:15:54,920 --> 00:15:59,320
+by design and that's another reason why the helmet has to fit so good because you can't have this
+
+174
+00:15:59,320 --> 00:16:07,440
+thing jostling around on your head under G's or or whenever that that symbology has to be available
+
+175
+00:16:07,440 --> 00:16:16,200
+to you it at all times the symbology is focused for what we call infinity so it's just a seamless
+
+176
+00:16:16,200 --> 00:16:23,040
+transition as far as when you're flying the symbology overlying with the outside world again
+
+177
+00:16:23,040 --> 00:16:31,000
+it does take a little bit of getting used to when I first started flying I could actually feel the
+
+178
+00:16:31,000 --> 00:16:39,880
+muscles in my eyes change as the focal length varied but now you know I've been flying for a
+
+179
+00:16:39,880 --> 00:16:46,000
+number of years it's it's seamless I don't even notice it anymore okay because yeah you've got
+
+180
+00:16:46,000 --> 00:16:52,360
+that screen in front of you plus you've also got what's on your on your helmet how do the two
+
+181
+00:16:52,360 --> 00:16:58,440
+inter interrelate because if you if you look down to look at the screen is the outside view in front
+
+182
+00:16:58,440 --> 00:17:04,120
+of your pupils or is it only when you're looking up and out no it's it's still there but the the
+
+183
+00:17:04,120 --> 00:17:09,760
+helmet itself has three different tracking systems it has an inertial tracking system
+
+184
+00:17:09,760 --> 00:17:14,960
+and has a magnetic tracking system and then it has a visual tracking system with cameras inside
+
+185
+00:17:14,960 --> 00:17:26,760
+the cockpit so that the aircraft and the aircraft computers are aware of where that the pilots head
+
+186
+00:17:26,800 --> 00:17:31,600
+in orientation is all time so when I come in to look at the the glass we call it the glass
+
+187
+00:17:31,600 --> 00:17:39,360
+when come in to look at the glass the symbology is blanked right okay the only time that we won't
+
+188
+00:17:39,360 --> 00:17:48,280
+blank that symbology is we also have the capability to take the DAS system the six cameras around the
+
+189
+00:17:48,280 --> 00:17:57,520
+aircraft and project that imagery to the visor and that's really it's it's a useful system during
+
+190
+00:17:57,520 --> 00:18:03,400
+the day and we'll probably talk a little bit more about that later but as far as pilot visuals it's
+
+191
+00:18:03,400 --> 00:18:10,240
+used primarily at night this system really turns night into day for the pilot the other advantages
+
+192
+00:18:10,240 --> 00:18:17,120
+of the the f-35 helmet that you kind of need to get used to is it has your night vision camera
+
+193
+00:18:17,120 --> 00:18:25,040
+integrated into it so when I'm flying at night I can either turn all the visuals off all the
+
+194
+00:18:26,080 --> 00:18:32,920
+camera views I can have DAS I can have my night vision camera and I can do it all from the flick
+
+195
+00:18:32,920 --> 00:18:38,160
+of my thumb on the stick fantastic so that would really change the way you fight the aircraft in
+
+196
+00:18:38,160 --> 00:18:42,240
+many ways wouldn't it I mean it's all of a sudden it's taking a lot of things that perhaps you had
+
+197
+00:18:42,240 --> 00:18:48,160
+to give a lot of thought to in in older generation aircraft it seems to me now that you know again
+
+198
+00:18:48,160 --> 00:18:53,000
+it's it's designed to make things easier and I guess that that leads through to SA and and all
+
+199
+00:18:53,000 --> 00:18:58,740
+that sort of stuff yeah 100% you know the the helmet is just it's another tool that the pilot
+
+200
+00:18:58,740 --> 00:19:07,720
+has that helps him or her execute the mission and it's it's the seamless integration of all
+
+201
+00:19:07,720 --> 00:19:14,000
+the sensors through sensor fusion that's really that that generational leap right so when we talk
+
+202
+00:19:14,000 --> 00:19:22,240
+about the f-35 and we talk about it being a fifth gen fighter fifth generation fighter most people
+
+203
+00:19:22,240 --> 00:19:28,320
+automatically think about stealth and stealth is an definitely an important aspect of it you know
+
+204
+00:19:28,320 --> 00:19:34,320
+the stealth capability that the aircraft brings to the fight it's both an offensive and defensive
+
+205
+00:19:34,320 --> 00:19:42,840
+capability but really the other part of fifth gen is sensor fusion and what sensor fusion brings
+
+206
+00:19:42,840 --> 00:19:53,600
+to the pilot so for example when I was flying my fourth gen fighter over Iraq you know the f-18 very
+
+207
+00:19:53,600 --> 00:20:04,280
+easy aircraft to fly and that's by design but in my legacy f-18 I had to tell the radar where to
+
+208
+00:20:04,280 --> 00:20:14,160
+look what targets to prioritize I had to interpret what my RWR EW system was displaying to me I had
+
+209
+00:20:14,160 --> 00:20:23,520
+to prioritize you know what my targeting pod was looking at and more importantly is I had to listen
+
+210
+00:20:23,520 --> 00:20:30,480
+actively listen to a lot of information that was coming in over the radio to fill in the rest of
+
+211
+00:20:30,480 --> 00:20:37,800
+the information that was needed and I would build that tactical picture in my head so I was as much a
+
+212
+00:20:37,800 --> 00:20:47,040
+sensor manager as a tactician you know in my fourth gen aircraft what sensor fusion brings to
+
+213
+00:20:47,040 --> 00:20:56,160
+the pilot is it's the sensor manager okay it not only does it manage my sensors for me but it
+
+214
+00:20:56,160 --> 00:21:04,320
+optimizes them depending on what I do mission planning wise on the deck right so f-35 extremely
+
+215
+00:21:04,320 --> 00:21:10,040
+easy aircraft to fly and again that's by design because that builds in safety margins for the
+
+216
+00:21:10,040 --> 00:21:15,520
+pilot I'm not too worried about being a sensor manager because I have sensor fusion taking care
+
+217
+00:21:15,520 --> 00:21:23,400
+of that for me so really what that allows me to do is be that tactician right to quickly analyze
+
+218
+00:21:23,480 --> 00:21:31,880
+any tactical challenge that's presented to me and we do that via the glass and the PVI and how that
+
+219
+00:21:31,880 --> 00:21:38,040
+information is presented to the pilot and it allows the pilot to make those split-second tactical
+
+220
+00:21:38,040 --> 00:21:43,000
+decisions that need to be made to solve any tactical challenge that's out there I've heard
+
+221
+00:21:43,000 --> 00:21:49,280
+the reference to the f-35 being the quarterback of the mission being up in the air with all that
+
+222
+00:21:49,280 --> 00:21:55,440
+sensor fusion and calling the shots and giving people information and all that so I'm guessing
+
+223
+00:21:55,440 --> 00:22:00,920
+that keeps you pretty busy in the cockpit what's it like to be doing that quarterback role in
+
+224
+00:22:00,920 --> 00:22:07,240
+addition to flying and fighting the aircraft itself so every fighter pilot wants to be the
+
+225
+00:22:07,240 --> 00:22:13,160
+leader right that's that's just the nature right you know it's I'm the best pilot up here I want
+
+226
+00:22:13,760 --> 00:22:21,680
+to be in charge but what we're seeing is again if I compare it to you know my fourth gen experience
+
+227
+00:22:21,680 --> 00:22:29,240
+it would typically take a Navy pilot anywhere between 8 to 12 years of experience before they
+
+228
+00:22:29,240 --> 00:22:38,280
+got to the point where they could lead in the Navy what we would call you know an LFE or a large
+
+229
+00:22:38,280 --> 00:22:46,140
+force employment you know taking a large number of aircraft into a contested area and executing
+
+230
+00:22:46,140 --> 00:22:54,720
+some sort of strike because of sensor fusion and the pilots are achieving that level as early as
+
+231
+00:22:54,720 --> 00:23:00,200
+two to four years into their career right so I mean it's that's when we talk about generational
+
+232
+00:23:00,200 --> 00:23:06,520
+leaps you know that's one of the things the services you know training a pilot takes a lot
+
+233
+00:23:06,520 --> 00:23:11,680
+of resources you know it takes a lot of the country's resources to dedicate to each individual
+
+234
+00:23:11,680 --> 00:23:19,000
+pilot and they're getting a much better pilot much sooner because of the tools that take some
+
+235
+00:23:19,000 --> 00:23:23,880
+of the workload off the pilot and allow them to be you know the tactician that you want them to
+
+236
+00:23:23,880 --> 00:23:32,040
+be so when you talk about you know quarterback in the fight it's one it's it's fun it's exciting
+
+237
+00:23:32,040 --> 00:23:39,400
+it's a challenge to your professional skills but you know you get up there and the tools that the
+
+238
+00:23:39,400 --> 00:23:45,760
+aircraft provide you the advanced sensors the sensor fusion as well as the data links that you
+
+239
+00:23:45,760 --> 00:23:51,800
+know we haven't talked about you know all of this information comes in and is very succinctly displayed
+
+240
+00:23:51,800 --> 00:23:57,080
+to the pilot so that they're again able to make those quarterback calls and then you bring in you
+
+241
+00:23:57,080 --> 00:24:03,000
+know the added benefit of these advanced data links that we have link 16 and and metal and
+
+242
+00:24:03,000 --> 00:24:08,640
+the information that we're bringing in is also pushed out to everybody that we want to share it
+
+243
+00:24:08,640 --> 00:24:16,040
+with right so even you know the battlefield commanders that may be away from the forward
+
+244
+00:24:16,040 --> 00:24:23,320
+line where the action is happening they have the same amount of essay that the pilot in the cockpit
+
+245
+00:24:23,360 --> 00:24:28,680
+has because it's really it's really we hear a lot about this it's being a platform rather than
+
+246
+00:24:28,680 --> 00:24:33,200
+just an aircraft isn't it like you know this this is this is now changing the way I guess the
+
+247
+00:24:33,200 --> 00:24:37,080
+battle space is managed because it's it's an integral part of a system rather than just an
+
+248
+00:24:37,080 --> 00:24:41,800
+individual aircraft or a bunch of individual aircraft so at Lockheed Martin we're working
+
+249
+00:24:41,800 --> 00:24:52,440
+hard on what we call 21st century security right which is to to bring integrated capability to the
+
+250
+00:24:52,440 --> 00:25:01,720
+warfighter you know to be able to operate and exploit what we call jato or joint joint all
+
+251
+00:25:01,720 --> 00:25:07,040
+domain operation so when we talk about 21st century security and jato it's talking about
+
+252
+00:25:07,040 --> 00:25:17,640
+the integration of space assets air assets both land and sea assets as well as subsurface assets
+
+253
+00:25:17,800 --> 00:25:23,200
+and each of those entities being able to share information so that they can make the tactical
+
+254
+00:25:23,200 --> 00:25:31,960
+decision that they need so when we talk about the f-35 yeah it's the f-35 it's a very capable fighter
+
+255
+00:25:31,960 --> 00:25:41,520
+aircraft but it's also an ISR platform intelligence surveillance and reconnaissance and when you talk
+
+256
+00:25:41,520 --> 00:25:49,120
+about it in a jato sense or 21st century security sense it's an airborne data node it's about you
+
+257
+00:25:49,120 --> 00:25:53,640
+know battle management or not battle management but information management because one of the
+
+258
+00:25:53,640 --> 00:25:59,040
+other aspects I failed to mention when I talked about the aspects of jato right and you know
+
+259
+00:25:59,040 --> 00:26:07,880
+space air surface subsurface but also cyber right and that's you know having an airborne data node
+
+260
+00:26:07,920 --> 00:26:16,000
+you know just adds to that capability and that's what the f-35 brings okay so I mean you're you're
+
+261
+00:26:16,000 --> 00:26:24,760
+sounding like a mini AWACS right there like a small e7 or e3 so how does the f-35 plug in with
+
+262
+00:26:24,760 --> 00:26:31,960
+those AWACS platforms like in the Navy sense you've got the e2 how does it supplement for the Air
+
+263
+00:26:31,960 --> 00:26:37,160
+Force talking to the e7 the wedge tail what's what's involved there you're not taking over but
+
+264
+00:26:37,160 --> 00:26:45,920
+are you able to give them more information than that otherwise have we are just because of the
+
+265
+00:26:45,920 --> 00:26:53,840
+sensors and the spectrum that our our sensors operate in and again it's because of link 16 and
+
+266
+00:26:53,840 --> 00:27:00,920
+being able to to pass that information so when you think about it you know if I have you know
+
+267
+00:27:00,920 --> 00:27:08,840
+a satellite with a certain capability in a certain part of the you know EM spectrum or
+
+268
+00:27:08,840 --> 00:27:16,760
+visual spectrum or whatever and the f-35 brings a different part of the spectrum you know to the
+
+269
+00:27:16,760 --> 00:27:22,400
+solution and maybe a ground-based radar you know and we're able to feed all of this information
+
+270
+00:27:22,400 --> 00:27:29,000
+in and you know it it's a force multiplier is what it is our special guest this week is Tony
+
+271
+00:27:29,040 --> 00:27:33,080
+Wilson chief of fighter flight operations at Lockheed Martin stick with us folks we'll be
+
+272
+00:27:33,080 --> 00:27:44,680
+right back after this welcome aboard the high flow media podcast dedicated to sharing the
+
+273
+00:27:44,680 --> 00:27:49,880
+stories and experiences of the amazing people who make aviation happen from pilots like me to
+
+274
+00:27:49,880 --> 00:27:54,640
+engineers air traffic controllers and others I'll explore their personal journeys the challenges
+
+275
+00:27:55,120 --> 00:27:59,560
+and the triumphs they've achieved my name is Damien and I'll be your host whether you're a
+
+276
+00:27:59,560 --> 00:28:04,840
+seasoned aviation enthusiast or new to the field I invite you to join me as we take off on this
+
+277
+00:28:04,840 --> 00:28:09,320
+journey of discovery subscribe now on your favorite podcast platform and leave a review
+
+278
+00:28:09,320 --> 00:28:15,960
+to help spread the word you can find me at highflymedia.com that's h-i-f-l-y media.com
+
+279
+00:28:15,960 --> 00:28:22,720
+uncovering the people and passion behind aviation one story at a time keeping up to date with the
+
+280
+00:28:22,720 --> 00:28:28,620
+latest news is a huge part of our daily lives now you can have news on demand with the Australian
+
+281
+00:28:28,620 --> 00:28:35,240
+Independent Radio news app news and sport in your pocket whenever you want it wherever you are in
+
+282
+00:28:35,240 --> 00:28:41,260
+the world if you call Australia home you can stay in touch with the air news app download it now for
+
+283
+00:28:41,260 --> 00:28:49,880
+news on the go this is an this is a news this is a news this is a news Australian Independent
+
+284
+00:28:49,880 --> 00:28:54,520
+Radio news you're listening to playing crazy down under the show where we talk aviation and our very
+
+285
+00:28:54,520 --> 00:28:59,080
+special guest this week is Tony Brick Wilson the chief of fighter flight operations at Lockheed
+
+286
+00:28:59,080 --> 00:29:04,440
+Martin the manufacturer of course of the f-35 Tony I have just one interesting side question there
+
+287
+00:29:04,440 --> 00:29:08,680
+because I should admit that one of my guilty pleasures is getting on YouTube and watching
+
+288
+00:29:08,680 --> 00:29:14,960
+cockpit video of carrier ops it just I could watch it all day long I notice when you're talking a lot
+
+289
+00:29:14,960 --> 00:29:19,000
+there about the ease of use and how much easier this aircraft is to fly I wonder if you could talk
+
+290
+00:29:19,000 --> 00:29:23,680
+about bringing it onto the boat bring it onto a carrier versus say bring an F you know bring an
+
+291
+00:29:23,680 --> 00:29:28,960
+F-18 onto the boat there seems to me to be so much going on in that cockpit so many micro
+
+292
+00:29:28,960 --> 00:29:33,760
+adjustments being made in the Hornet given that this aircraft is an easier aircraft to operate how
+
+293
+00:29:33,760 --> 00:29:37,720
+does that affect just coming onto the boat it's just a side question because these videos they
+
+294
+00:29:37,720 --> 00:29:52,440
+just fascinate me so what I can tell you is the f-35 builds huge safety margins into shipboard
+
+295
+00:29:52,440 --> 00:29:58,800
+operations there's a couple of things that we have going for us in the f-35 and to be fair it's not
+
+296
+00:29:58,800 --> 00:30:07,240
+just the f-35 the Navy has invested a lot of resources in bringing what the f-35 brings to
+
+297
+00:30:07,240 --> 00:30:13,000
+the pilot to the Hornet and they're also expanding it out to other aircraft in the fleet but the
+
+298
+00:30:13,000 --> 00:30:19,920
+f-35 we have what's called Delta flight path and and you're hundred percent right there's you know
+
+299
+00:30:19,920 --> 00:30:30,720
+multiple micro corrections and inputs while you're trying to land on the ship you know it's the the
+
+300
+00:30:30,720 --> 00:30:38,320
+task the basic task I can I can break it down into you know the naval aviation mantra is
+
+301
+00:30:38,320 --> 00:30:44,720
+meatball lineup angle of attack and what that means is you have the Fresno lens that has the
+
+302
+00:30:44,720 --> 00:30:51,560
+ball off to the left side and the pilots primary task is to keep it between the two green bars
+
+303
+00:30:51,560 --> 00:30:59,120
+what we call the datums the lineup is to make sure that you are on centerline because the landing
+
+304
+00:30:59,160 --> 00:31:05,000
+area on an aircraft carrier is not that big and there's aircraft parked on either side of the
+
+305
+00:31:05,000 --> 00:31:12,200
+landing area so you really can't afford to be you know off by very much and then angle of attack an
+
+306
+00:31:12,200 --> 00:31:20,520
+angle attack you know it's it's speed well the f-35 takes care of angle attack for you right so I
+
+307
+00:31:20,520 --> 00:31:28,160
+don't have to worry too much about that and now with Delta flight path it automatically once I'm
+
+308
+00:31:28,200 --> 00:31:35,400
+on glideslope I can engage it and it will capture and hold that three degree glideslope for me not
+
+309
+00:31:35,400 --> 00:31:41,560
+only does it do that but normally where the younger pilots will get themselves in trouble is and I
+
+310
+00:31:41,560 --> 00:31:51,160
+did you know many times trying to come aboard the boat is you get so focused on glideslope that
+
+311
+00:31:51,160 --> 00:31:56,040
+lineup will fall out of your scan and you'll you'll pick up a drift one way or the other and the LSOs
+
+312
+00:31:56,840 --> 00:32:01,240
+they'll give you you know a couple seconds to see if you're gonna correct it but if you don't start
+
+313
+00:32:01,240 --> 00:32:07,320
+to correct it they'll tell you hey you need to come one way or the other and this is normally
+
+314
+00:32:07,320 --> 00:32:14,000
+where younger pilots would get themselves in trouble because as soon as I now need to make
+
+315
+00:32:14,000 --> 00:32:20,600
+a lineup correction I may have had the power set perfectly but because I'm changing lift because
+
+316
+00:32:20,600 --> 00:32:25,320
+I'm changing the drag profile because I'm banking the aircraft now I got to come up on the power and
+
+317
+00:32:25,400 --> 00:32:29,600
+now I have to reduce the power and then come back up so it's a three-part power correction and then
+
+318
+00:32:29,600 --> 00:32:36,200
+I got to do it again the other way and normally the pilot becomes so focused on lineup that the
+
+319
+00:32:36,200 --> 00:32:42,920
+or the glideslope falls out and now they end up having you know multiple corrections to have to
+
+320
+00:32:42,920 --> 00:32:50,960
+make well Delta flight path and what's called in the F-18 Magic Carpet it helps the pilot out
+
+321
+00:32:50,960 --> 00:32:58,160
+tremendously because if I start to drift one way or the other all I have to do now is put in
+
+322
+00:32:58,160 --> 00:33:04,440
+lateral stick input to make that lineup correction and the plane takes care of everything for me it
+
+323
+00:33:04,440 --> 00:33:12,640
+takes care of the power you know the F-35 has what we call triple ID DLC integrated direct lift so
+
+324
+00:33:12,640 --> 00:33:18,360
+really what's happening is I'm moving the stick around if I need to change you know I've started
+
+325
+00:33:18,360 --> 00:33:24,040
+to shallow out or I'm going low and I pull back on the stick actually the control surfaces all
+
+326
+00:33:24,040 --> 00:33:31,040
+deflect first to change the shape of the wing to change the camber and give me almost immediate
+
+327
+00:33:31,040 --> 00:33:38,240
+lift so the aircraft heaves back up right so you know whether you're talking about the F-35 and
+
+328
+00:33:38,240 --> 00:33:45,400
+like I said the Super Hornet has this capability coming back aboard the boat especially during the
+
+329
+00:33:45,400 --> 00:33:51,200
+day there's so many increased safety margins because of the capability that the digital flight
+
+330
+00:33:51,200 --> 00:33:58,080
+controls bring to the pilot the other thing that the F-35 pilot has to them is what we call a
+
+331
+00:33:58,080 --> 00:34:05,200
+ship's reference velocity vector and what that is it's a data link with the ship that actually
+
+332
+00:34:05,200 --> 00:34:13,600
+takes into account ships motion and now I have a piece of symbology that I'd basically put it on
+
+333
+00:34:13,600 --> 00:34:18,360
+the deck and that's where I'm gonna land so before when I was flying my legacy Hornet we
+
+334
+00:34:18,360 --> 00:34:23,680
+had a traditional velocity vector flight path marker so as you came around the corner you know
+
+335
+00:34:23,680 --> 00:34:28,400
+we made that approach turn during the day you'd use a little bit of Kentucky windage and you'd
+
+336
+00:34:28,400 --> 00:34:34,400
+put the velocity vector out in front of the ship a little bit and you know you'd you'd game it that
+
+337
+00:34:34,400 --> 00:34:41,040
+way a little bit but between the the symbology and the flight controls you know it's I won't say it's
+
+338
+00:34:41,040 --> 00:34:47,480
+easy and I used to say this when I flew you know the legacy Hornet that I would do anything that
+
+339
+00:34:47,480 --> 00:34:54,000
+the Navy asked me to do for free except land at the boat at night yeah I don't pay anybody enough
+
+340
+00:34:54,000 --> 00:35:01,480
+money to do that but the tools that we give the pilots now again it makes it easier it makes it
+
+341
+00:35:01,480 --> 00:35:09,040
+safer which allows them to again focus on the mission and not worry so much about boat operations
+
+342
+00:35:09,040 --> 00:35:12,960
+I know that's a side question but I tell you we could have a whole separate podcast on carrier
+
+343
+00:35:12,960 --> 00:35:17,520
+ops because it just those guys the shooters for example they just crack me up with the whole thing
+
+344
+00:35:17,520 --> 00:35:22,040
+we could have a whole separate podcast on that grant but we should move on absolutely a matter
+
+345
+00:35:22,040 --> 00:35:31,680
+of fact Ali's price saying don't get them started well let's shift on to a slightly different
+
+346
+00:35:31,680 --> 00:35:38,720
+question then and you touched on that briefly about the sensor fusion changing how you do
+
+347
+00:35:38,720 --> 00:35:44,960
+things so how has sensor fusion changed the way you plan and execute missions for example I'll
+
+348
+00:35:44,960 --> 00:35:56,320
+make a bold statement and say that it hasn't there you go okay because both the US way of
+
+349
+00:35:56,320 --> 00:36:05,560
+mission planning and prepping for a mission as well as you know our allies we you know we all
+
+350
+00:36:05,560 --> 00:36:14,880
+share that in common and whether mission planning is always intensive you're analyzing where the
+
+351
+00:36:14,880 --> 00:36:21,840
+target is what where the threats are what the threats are what are the threats vulnerabilities
+
+352
+00:36:21,840 --> 00:36:29,960
+to my strengths and how can I exploit that what are my vulnerabilities to the threat if any and
+
+353
+00:36:29,960 --> 00:36:36,840
+how do I defend against that right so all of that goes into mission planning sensor fusion
+
+354
+00:36:36,840 --> 00:36:45,960
+increases your mission planning a little bit because you want to put information into the
+
+355
+00:36:45,960 --> 00:36:56,040
+plane in your mission planning process that's going to bring sensor fusion or optimize sensor
+
+356
+00:36:56,040 --> 00:37:02,080
+fusion for whatever you're getting ready to whatever tactical challenge you're getting ready
+
+357
+00:37:02,080 --> 00:37:14,280
+to to go out and and fly against but more importantly it makes things easier in the plane
+
+358
+00:37:14,280 --> 00:37:22,320
+right so it really doesn't change how I how I mission plan that like I said there's a little
+
+359
+00:37:22,320 --> 00:37:33,640
+bit extra but the the benefit it brings is flexibility and what I mean by that is if the
+
+360
+00:37:33,640 --> 00:37:41,560
+scenario doesn't go how I expect it to and 99% of the time the scenarios don't go how you expect
+
+361
+00:37:41,560 --> 00:37:48,600
+them to there's additional threats or additional capability out there it allows the pilot to change
+
+362
+00:37:48,600 --> 00:37:55,280
+their game plan on the fly and change that game plan with ease and again it goes back to what I
+
+363
+00:37:55,280 --> 00:38:00,280
+was saying about you know the difference between taking eight to twelve years to attain a certain
+
+364
+00:38:00,280 --> 00:38:06,440
+tactical level and attain it now in two to four okay because yeah we all know Von Klauswitz no
+
+365
+00:38:06,440 --> 00:38:11,960
+plan survives first contact with the enemy and the other one that a wing commander I used to work
+
+366
+00:38:11,960 --> 00:38:19,240
+with was frequently saying to me was grant have I told you that flexibility wins wars which was
+
+367
+00:38:19,240 --> 00:38:25,960
+often a signal that he had done something that I needed to correct and fix but yeah those those
+
+368
+00:38:25,960 --> 00:38:31,840
+two things so yeah I could see what you're meaning there that flexibility that power of information
+
+369
+00:38:31,840 --> 00:38:39,800
+and ability to adapt is is critical in a especially in a dynamic war environment let alone war but any
+
+370
+00:38:39,800 --> 00:38:47,000
+environment that we're doing even even a training mission is quite dynamic so fantastic stuff so
+
+371
+00:38:47,000 --> 00:38:53,040
+I'm gonna go for bring us back into the cockpit and we've got the helmet you've told us a lot
+
+372
+00:38:53,040 --> 00:38:59,400
+about how that all that all works and how you got the screen the glass as you said how does all this
+
+373
+00:38:59,400 --> 00:39:07,220
+information get presented to you and and how do you identify key items at various points I imagine
+
+374
+00:39:07,220 --> 00:39:13,220
+that are you being illuminated by a radar is probably a higher priority than right now than
+
+375
+00:39:13,220 --> 00:39:18,780
+how much fuel you've got things like that but but how is that presented you see the videos of the
+
+376
+00:39:18,780 --> 00:39:23,620
+Super Hornets and they've got screens everywhere but you've just got that the glass and the helmet
+
+377
+00:39:23,620 --> 00:39:29,100
+so let's talk about the glass for just a second it's actually two different displays okay and we
+
+378
+00:39:29,100 --> 00:39:35,580
+do that for redundancy and safety so that if you lose one display you still have another one but the
+
+379
+00:39:35,580 --> 00:39:44,980
+glass itself can be broken up into four portals and each of those portals can either have one
+
+380
+00:39:44,980 --> 00:39:54,300
+display on it or one larger display in two smaller ones I can expand it out so that I've got you know
+
+381
+00:39:54,300 --> 00:40:02,500
+the display going across two portals right so I have multiple ways that I can configure the glass
+
+382
+00:40:02,500 --> 00:40:08,940
+for whatever the mission is you think of it like you know an iPad or an iPhone as far as you know
+
+383
+00:40:08,940 --> 00:40:17,460
+be being having that flexibility additionally the f-35 has five different modes in it we have
+
+384
+00:40:17,460 --> 00:40:27,020
+navigation air to air one air to air to dogfight and air to surface and each of those five modes
+
+385
+00:40:27,020 --> 00:40:38,500
+I can set up my displays again however I want it so I set it up on on on deck and matter of fact
+
+386
+00:40:38,500 --> 00:40:42,380
+we're getting the capability to actually set it up in mission planning so the pilot doesn't even
+
+387
+00:40:42,380 --> 00:40:49,380
+need to worry about setting it up on deck so the displays are already optimized for your mode and
+
+388
+00:40:49,380 --> 00:40:54,820
+your mode is tied to whatever your task is and it's obviously in the name of the mode right so air
+
+389
+00:40:54,820 --> 00:41:00,980
+to air one air to air two I'm doing some sort of air to air mission dogfight you know I'm mixing
+
+390
+00:41:00,980 --> 00:41:08,500
+it up and air to surface I'm executing I'm prosecuting a target on the ground now whether
+
+391
+00:41:08,500 --> 00:41:16,060
+you're talking about you know the glass and you know the f-35 and a fifth-gen fighter or you know
+
+392
+00:41:16,060 --> 00:41:22,820
+any of the other fourth-gen fighters out there one of the first tasks that a pilot needs to learn is
+
+393
+00:41:22,820 --> 00:41:31,820
+their scan where am I looking for what information and when yep yeah right so it because it's it
+
+394
+00:41:31,820 --> 00:41:40,660
+does me no good to be looking at my t-flare imagery if I'm trying to figure out you know
+
+395
+00:41:40,660 --> 00:41:50,620
+from you know EW or energy waves coming off an aircraft you know to help me identify it so it's
+
+396
+00:41:50,620 --> 00:41:58,380
+a matter of learning where to look and and when to look and again technology is is advancing right
+
+397
+00:41:58,380 --> 00:42:07,140
+and there's systems out there they're not in the f-35 yet it's you know still being tested on you
+
+398
+00:42:07,140 --> 00:42:14,180
+know multiple different helmets out there but not only you know I have a camera a mission replay
+
+399
+00:42:14,180 --> 00:42:20,260
+camera in the helmet so I know where the pilot's head is looking but here in the near future not
+
+400
+00:42:20,300 --> 00:42:23,220
+only are we going to know where the pilot's head is looking but we're going to know where the
+
+401
+00:42:23,220 --> 00:42:29,900
+pilot's eyes are looking and that's just going to aid in that training aspect right so the
+
+402
+00:42:29,900 --> 00:42:34,740
+instructor pilots are going to have the capability to come back and be like oh yeah your your head
+
+403
+00:42:34,740 --> 00:42:40,300
+was in the right place but you were looking in the wrong place right so it's a matter of learning
+
+404
+00:42:40,300 --> 00:42:47,700
+what to scan and and when to scan it and that just comes with training and experience yeah we
+
+405
+00:42:47,780 --> 00:42:50,980
+starting to see that in simulators now where they're doing the eye tracking while you're in
+
+406
+00:42:50,980 --> 00:42:55,540
+the sim so yeah no no huge surprise to hear that's going to wind up in the helmet as well
+
+407
+00:42:56,260 --> 00:43:01,060
+yeah so in terms of maturity of the platform I mean it's been under development now for many
+
+408
+00:43:01,060 --> 00:43:06,420
+many years how does how does Lockheed Martin see it going now are we are we in a in a spot where
+
+409
+00:43:06,420 --> 00:43:11,380
+we're happy obviously there's a process of continued improvement but where does the company see the
+
+410
+00:43:12,020 --> 00:43:19,380
+evolution of the aircraft as we sit here in 2023 so the the f-35 that's flying today is not the
+
+411
+00:43:19,380 --> 00:43:28,900
+same f-35 that was flying in 2010 okay one of the great strengths of the f-35 is it is a software
+
+412
+00:43:28,900 --> 00:43:35,060
+driven aircraft okay what do I mean by that when I was flying my fourth gen fighter you would get a
+
+413
+00:43:35,060 --> 00:43:42,260
+software update about every two years okay and with that software update came incremental
+
+414
+00:43:42,820 --> 00:43:50,980
+increases in capability but for real capability increases you had to change out boxes that came
+
+415
+00:43:50,980 --> 00:43:58,580
+in hardware changes we're in the process of doing tr3 tech refresh 3 this is only the third time
+
+416
+00:43:59,220 --> 00:44:03,780
+in the history of the aircraft that we are actually changing out hardware and we're doing
+
+417
+00:44:03,780 --> 00:44:10,900
+it because computer processing power has gotten better sensors have gotten better right and when
+
+418
+00:44:10,900 --> 00:44:18,580
+you compare that two-year software update cycle to what we push out now which is about every six
+
+419
+00:44:18,580 --> 00:44:27,140
+months yep right and again with each new software comes new capability so when I say that the
+
+420
+00:44:27,140 --> 00:44:32,660
+aircraft that's flying today resembles nothing of the aircraft that flew back in 2010 I'm talking
+
+421
+00:44:32,660 --> 00:44:39,140
+about the tactical capability that the aircraft had because of all the software updates that have
+
+422
+00:44:39,140 --> 00:44:45,300
+come along the way and now the third time that we're actually refreshing the hardware so when
+
+423
+00:44:45,300 --> 00:44:50,900
+you talk about you know what does the plane look like in 2040 what does the plane look like in 2070
+
+424
+00:44:51,860 --> 00:44:58,500
+the only answer I can give you is I don't know but I can't wait to see it right because I know
+
+425
+00:44:58,900 --> 00:45:05,140
+the new capabilities that are coming right around the corner you know as well as you know the future
+
+426
+00:45:05,140 --> 00:45:11,780
+capabilities that you know Lockheed's working on Lockheed Martin's working on and as a tactical
+
+427
+00:45:11,780 --> 00:45:17,540
+aviator I am excited to see what comes next yeah obviously there's so many of these aircraft flying
+
+428
+00:45:17,540 --> 00:45:20,820
+around the world these days I suppose it goes without saying that you're getting constant
+
+429
+00:45:20,820 --> 00:45:25,540
+feedback from of all different types from all around the world on different tweaks you might
+
+430
+00:45:25,540 --> 00:45:32,660
+like to make absolutely so one of the decisions that was made in the program early on was to use
+
+431
+00:45:32,660 --> 00:45:41,860
+this idea of concurrency so what do I mean by that when aircraft specifically tactical aircraft
+
+432
+00:45:41,860 --> 00:45:48,660
+went through you know their design and field process you know prior to the f-35 and you know
+
+433
+00:45:49,460 --> 00:45:57,140
+earlier they went through distinct phases they went through you know first the aircraft was built
+
+434
+00:45:57,140 --> 00:46:03,060
+some prototypes were built and they went through developmental tests DT and in that time period
+
+435
+00:46:03,620 --> 00:46:08,580
+you know test pilots such as myself we flew it we identified you know challenges and tweaks
+
+436
+00:46:08,580 --> 00:46:14,340
+you know we put them in we tested them out we're like okay yes it is past developmental flight
+
+437
+00:46:14,340 --> 00:46:19,380
+test now it's ready for operational tests and then we would send it on to operational tests and
+
+438
+00:46:19,380 --> 00:46:26,180
+the operational testers would do their thing right and then they again they'd identify challenges
+
+439
+00:46:26,180 --> 00:46:31,380
+and you know things that needed to be addressed it would get fixed and then it was sent finally
+
+440
+00:46:31,380 --> 00:46:38,100
+sent on to the fleet the end user where they would eventually ioc declare ioc or initial
+
+441
+00:46:38,100 --> 00:46:45,460
+operating capability the f-35 program went with this idea of concurrency and i can tell you as
+
+442
+00:46:45,460 --> 00:46:52,660
+a developmental flight or a developmental test pilot at first it was a little bit frustrating
+
+443
+00:46:52,660 --> 00:46:58,580
+because i was doing developmental tests in the aircraft's portion you know we weren't done
+
+444
+00:46:59,300 --> 00:47:06,500
+you know carving out the full envelope and we already had operational tests going on as well as
+
+445
+00:47:08,660 --> 00:47:14,500
+the services flying it operationally and the reason i say it was a little bit of a challenge
+
+446
+00:47:14,500 --> 00:47:20,180
+is because you know the the fleet pilot would come back or like well this doesn't work we're
+
+447
+00:47:20,180 --> 00:47:27,060
+like yes we know and and we're working we're working on it right but i i think my my personal
+
+448
+00:47:27,060 --> 00:47:36,660
+feeling now is that we have a much more robust system uh in the aircraft because of uh this
+
+449
+00:47:36,660 --> 00:47:43,780
+idea of concurrency because we got the end users involved in the design process if you will so
+
+450
+00:47:43,780 --> 00:47:50,900
+early so you know instead of you know an idea taking legs and running and then making it out
+
+451
+00:47:50,900 --> 00:47:55,860
+to the fleet and the fleet pilots being like i'm never going to use this why would you design it
+
+452
+00:47:55,860 --> 00:48:04,260
+that way they were able to identify that earlier right so and it's not just the u.s uh services
+
+453
+00:48:04,260 --> 00:48:09,380
+it's every nation that's been part of the program whenever they come onto the program
+
+454
+00:48:10,020 --> 00:48:14,580
+you know they start integrating into these processes that we have to help develop the
+
+455
+00:48:14,580 --> 00:48:20,820
+aircraft and make sure that when i make the statement that the f-35 is the most capable
+
+456
+00:48:20,820 --> 00:48:26,260
+the most survivable uh the most connected fighter flying on the face of the planet today i can say
+
+457
+00:48:26,260 --> 00:48:33,140
+that with confidence because i have however many pilots and country services to back that
+
+458
+00:48:33,140 --> 00:48:40,420
+statement up yep and uh for instance you've got a curl the australian canadian uk uh reprogramming
+
+459
+00:48:40,420 --> 00:48:46,100
+lab which uh yeah that's a major thing that's going on in the u.s at the moment where these
+
+460
+00:48:46,100 --> 00:48:53,300
+non-us five eyes groups are doing their their specific programming to help develop so that does
+
+461
+00:48:53,300 --> 00:48:58,180
+lead into the question the one that we're being from down under that we've got to ask is uh have
+
+462
+00:48:58,180 --> 00:49:03,860
+you had much to do with the the raf both personnel and aircraft and so on have you tested any of our
+
+463
+00:49:03,860 --> 00:49:11,540
+aircraft have you engaged a lot with australian personnel so uh i'll answer that in two two parts
+
+464
+00:49:11,540 --> 00:49:19,300
+um every australian air aircraft that has come off of the the line either i or a member of my
+
+465
+00:49:19,300 --> 00:49:28,100
+team have flown it so um as far as integration and interaction um with the australians
+
+466
+00:49:28,100 --> 00:49:35,700
+unfortunately uh no i haven't as a matter of fact um it's still on my to-do list to actually make it
+
+467
+00:49:35,700 --> 00:49:43,380
+down to australia i was in i was in the u.s navy we were doing an exercise in australia down in uh
+
+468
+00:49:43,380 --> 00:49:50,340
+tindle and uh it's actually that's that's where i earned my mission commander qual that you know
+
+469
+00:49:50,340 --> 00:49:58,260
+leading uh large forces uh you know into tactical scenarios and we were uh supposed to stop in
+
+470
+00:49:58,260 --> 00:50:03,700
+australia and i was super excited this was going to be my first time and the port call got cancelled
+
+471
+00:50:03,700 --> 00:50:13,220
+oh no so heartbreaking i've flown over uh i've flown over your country i've uh i've dropped um
+
+472
+00:50:13,220 --> 00:50:18,980
+you know practice ordinance on uh on your ranges but i've never had the opportunity to actually
+
+473
+00:50:18,980 --> 00:50:24,740
+come down and enjoy the culture well we need to rectify that i think absolutely i will have to
+
+474
+00:50:24,740 --> 00:50:28,980
+talk we will have to have a chat with ali at the end of this uh this recording
+
+475
+00:50:28,980 --> 00:50:31,860
+uh
+
+476
+00:50:31,860 --> 00:50:36,420
+so tony just as we uh come to the end of our time here um we never got around to asking you about
+
+477
+00:50:36,420 --> 00:50:40,020
+your call sign brick and of course we have to ask every fighter pilot uh that we come across
+
+478
+00:50:40,020 --> 00:50:44,500
+say how they came across their call sign and can you give us the pg version yeah the pg version
+
+479
+00:50:44,500 --> 00:50:53,060
+yeah yeah yeah this this does go out to radio and kids so absolutely so unfortunately um you
+
+480
+00:50:53,140 --> 00:51:01,940
+probably can't tell from uh from the video but i'm a relatively short uh pilot uh short and stout
+
+481
+00:51:01,940 --> 00:51:10,980
+in nature so uh the call sign brick especially in my younger years was very fitting to uh my
+
+482
+00:51:10,980 --> 00:51:19,460
+build as well as my personality uh you know small dense uh rough around the edges uh i could be
+
+483
+00:51:19,460 --> 00:51:26,900
+abrasive uh trying to get me to change uh my mind on anything uh was like pushing on a brick wall
+
+484
+00:51:27,460 --> 00:51:35,620
+because uh some people say i have a tendency to be stubborn i disagree but uh the uh the other uh
+
+485
+00:51:35,620 --> 00:51:42,820
+the other story again with uh being short uh we carry uh basically an external hard drive
+
+486
+00:51:43,540 --> 00:51:49,620
+from mission planning out to the jet uh and we call that uh the brick so one of the running
+
+487
+00:51:49,620 --> 00:51:55,940
+jokes was how many bricks did i have to sit on so i could see outside the cockpit oh such a cruel
+
+488
+00:51:55,940 --> 00:52:02,420
+industry oh it is it is you gotta have thick skin oh yeah and not just for the debriefs
+
+489
+00:52:05,380 --> 00:52:09,620
+well brick thank you so much for coming on the show this has been awesome uh really appreciate
+
+490
+00:52:09,620 --> 00:52:13,620
+you taking the time and very conscious of the fact that we're almost at 7 pm on a friday evening
+
+491
+00:52:13,620 --> 00:52:17,940
+your time so that bourbon is just around the corner because we're going to wrap it here
+
+492
+00:52:18,820 --> 00:52:25,060
+absolutely hey i had uh a lot of fun you know if i can't be uh flying then talking about it's the
+
+493
+00:52:25,060 --> 00:52:36,660
+next best thing so i really appreciate the opportunity thank you look let's be honest sir
+
+494
+00:52:36,660 --> 00:52:41,780
+we've all got to eat that we do kevin food is such a big part of life isn't it and talking about
+
+495
+00:52:41,780 --> 00:52:46,660
+food can lead us to all sorts of places and all sorts of people yep and every week on the food
+
+496
+00:52:46,660 --> 00:52:52,420
+bites podcast we catch up with someone who might be a tv celebrity a high-profile sports star
+
+497
+00:52:52,420 --> 00:52:57,220
+a politician could be anyone and we talk to them about food their kitchen skills or you know
+
+498
+00:52:57,220 --> 00:53:03,700
+sometimes lack of uh life and and love and kevin every week there's the friday food poll oh yes
+
+499
+00:53:03,780 --> 00:53:08,180
+now that is food bites with sarah paterson and me kevin hillier you can find us wherever you
+
+500
+00:53:08,180 --> 00:53:12,660
+find your favorite podcast and of course every sunday morning at nine o'clock on the ace radio
+
+501
+00:53:12,660 --> 00:53:18,340
+network you're listening to plane crazy down under the show where we like to talk aviation and we
+
+502
+00:53:18,340 --> 00:53:22,820
+certainly love to talk about fighter jets in fact grant this week we're talking about the f-35
+
+503
+00:53:22,820 --> 00:53:27,140
+and back at uh avalon earlier in the year of course uh lockmart had a pretty uh big presence
+
+504
+00:53:27,140 --> 00:53:31,860
+there in the f-35 of course uh you know it was the jet that's taking everybody's attention
+
+505
+00:53:32,420 --> 00:53:36,660
+their director of international business development for the jet is stephen over
+
+506
+00:53:36,660 --> 00:53:40,340
+and he joined us for an interview on our our sister program can we call it that grant the
+
+507
+00:53:40,340 --> 00:53:44,820
+australian defense magazine podcast and we had a great chat with him the fine folks of the
+
+508
+00:53:44,820 --> 00:53:49,140
+australian defense magazine podcast allow us to use some of their content once it's been out on
+
+509
+00:53:49,140 --> 00:53:53,940
+their show for a bit here's a few excerpts of the key pieces that fit in with what tony was talking
+
+510
+00:53:53,940 --> 00:53:59,700
+about before we're incorporating an upgrade that we call block four so block four will span about
+
+511
+00:53:59,700 --> 00:54:05,780
+a seven or eight year time frame and it starts with some fairly significant hardware upgrades
+
+512
+00:54:05,780 --> 00:54:12,340
+to our mission systems or avionics as we call it this year we're breaking into production a new
+
+513
+00:54:13,060 --> 00:54:16,900
+computing baseline that will update the main mission computer on the aircraft
+
+514
+00:54:16,900 --> 00:54:21,460
+the computer that supports the cockpit displays and the aircraft memory system
+
+515
+00:54:21,460 --> 00:54:26,740
+and that creates a computing infrastructure that then we can leverage with future software upgrades
+
+516
+00:54:27,300 --> 00:54:32,980
+we're also incorporating a next-gen distributed aperture system this infrared camera that's
+
+517
+00:54:32,980 --> 00:54:38,100
+positioned around the airplane that allows the pilot to see hemispherically and infrared
+
+518
+00:54:38,100 --> 00:54:42,820
+and that new sensor it was it was principally put on the airplane to reduce cost and be
+
+519
+00:54:43,380 --> 00:54:48,580
+more supportable but it's going to have about a 2x improvement in detection range and detection
+
+520
+00:54:48,580 --> 00:54:52,820
+performance it's just a benefit of modern technology what pilot wouldn't love that
+
+521
+00:54:53,700 --> 00:54:59,060
+yeah and so that that starts the foundation australia's last nine airplanes that are
+
+522
+00:54:59,060 --> 00:55:03,620
+delivered this year will have that hardware baseline and then incrementally year over year
+
+523
+00:55:03,620 --> 00:55:08,340
+there's new software upgrades that will bring new weapons additional sensor modes and other
+
+524
+00:55:08,340 --> 00:55:15,060
+performance features that will keep this airplane at the cutting edge state-of-the-art military
+
+525
+00:55:15,140 --> 00:55:22,740
+capability so that australia the u.s and our allies will have the ability to deter aggression
+
+526
+00:55:22,740 --> 00:55:26,820
+from the adversaries that are out there for decades to come that's fantastic and will the
+
+527
+00:55:27,540 --> 00:55:32,340
+you mentioned that the last few will have that hardware capability is that plan to be
+
+528
+00:55:32,900 --> 00:55:37,060
+progressively applied to the existing fleets when they come in for major upgrades and it
+
+529
+00:55:37,060 --> 00:55:42,420
+absolutely is there's already a plan that we and the f-35 joint program office have worked with
+
+530
+00:55:42,420 --> 00:55:48,980
+the australian air force to factor their airplanes into a depot mod program at rdaf williamtown
+
+531
+00:55:48,980 --> 00:55:54,740
+and over the coming years their airplanes will all be upgraded to this common block four baseline
+
+532
+00:55:54,740 --> 00:55:59,700
+let's touch on sensor fusion well as an engineer i can tell you sensor fusion is
+
+533
+00:55:59,700 --> 00:56:07,140
+probably the most advanced state-of-the-art feature of the f-35 and i've you know focused on how do
+
+534
+00:56:07,140 --> 00:56:13,140
+you describe to people that aren't fighter pilots what sensor fusion is and the way i would relate
+
+535
+00:56:13,140 --> 00:56:18,180
+it is you have to contrast it with what a pilot that flies a fourth generation airplane is doing
+
+536
+00:56:18,180 --> 00:56:24,180
+versus a pilot that's flying the f-35 so the pilot that's flying a fourth generation airplane
+
+537
+00:56:24,180 --> 00:56:28,420
+the australian air force has some of the finest fourth generation airplanes in the world
+
+538
+00:56:28,420 --> 00:56:31,460
+with both classic and super horse guess the classics have been retired
+
+539
+00:56:32,260 --> 00:56:36,980
+um we produce one of the finest fourth generation airplanes also in the world the f-16 fighting
+
+540
+00:56:36,980 --> 00:56:42,420
+falcon great fourth-gen airplane right and so the pilot instinctually he knows how to fly the
+
+541
+00:56:42,420 --> 00:56:46,740
+airplane he doesn't have to think about how to control and maneuver the aircraft that's just
+
+542
+00:56:46,740 --> 00:56:52,740
+instinctual for it and so he has a dedicated display for each and every sensor he has in the
+
+543
+00:56:52,740 --> 00:56:58,500
+cockpit he has a radar and a dedicated display that shows him radar targeting he'll have electronic
+
+544
+00:56:58,500 --> 00:57:03,300
+warfare and a dedicated display that shows him what his electronic warfare system is seeing
+
+545
+00:57:03,300 --> 00:57:07,940
+and if he has the luxury of an infrared tracking system or some kind of infrared
+
+546
+00:57:07,940 --> 00:57:13,940
+detection system he may have a third display that shows him what that's that sensor is seeing and
+
+547
+00:57:13,940 --> 00:57:21,860
+most of his mental capacity is spent trying to glue it in his mind what each of these three
+
+548
+00:57:21,860 --> 00:57:26,820
+or four displays are showing him into a three-dimensional picture of the battle space
+
+549
+00:57:26,820 --> 00:57:32,580
+with f-35 we've taken the power of modern computing and almost nine million lines of
+
+550
+00:57:32,580 --> 00:57:38,660
+software source code and we've automated that functionality for the pilot so what he sees when
+
+551
+00:57:38,660 --> 00:57:44,420
+he sits in the cockpit is this large panoramic cockpit display it's about the size of two large
+
+552
+00:57:44,420 --> 00:57:51,140
+ipads and he'll typically have half of it dedicated to something we call a tactical situation display
+
+553
+00:57:51,140 --> 00:57:56,660
+it's this god's eye view of the battle space and he doesn't worry about individual sensors
+
+554
+00:57:56,660 --> 00:58:01,380
+any longer he doesn't worry about a radar he doesn't worry about electronic warfare he doesn't
+
+555
+00:58:01,380 --> 00:58:10,020
+worry about infrared it just all logically appears on his cockpit display and he never
+
+556
+00:58:10,020 --> 00:58:15,220
+has to worry about it as he's approaching the battle space he'll set range scales and targets
+
+557
+00:58:15,220 --> 00:58:21,700
+just magically appear pilots that have transitioned from fourth generation airplanes into f-35 they
+
+558
+00:58:21,700 --> 00:58:26,500
+will also tell you one of the things that's the biggest surprise to them not only is how well
+
+559
+00:58:26,500 --> 00:58:32,820
+sensor fusion tells you where everything is in the battle space but how well the intrinsic features
+
+560
+00:58:32,820 --> 00:58:38,340
+in the airplane also derive combat id yeah powerful powerful performance from it from the
+
+561
+00:58:38,340 --> 00:58:43,300
+airplane right so you not only know typically where everything is in the battle space but for
+
+562
+00:58:43,300 --> 00:58:48,900
+the most part you know what everything is as well yeah and so if you're flying the airplane
+
+563
+00:58:48,900 --> 00:58:54,500
+it's a significant workload reducer you're not trying to create a mental image of the battle
+
+564
+00:58:54,500 --> 00:59:00,500
+space you have this very logical view and so the pilot becomes a tactician and what we're seeing
+
+565
+00:59:00,500 --> 00:59:06,420
+as this airplane is being put in the hands of seasoned military pilots is even young first
+
+566
+00:59:06,420 --> 00:59:10,900
+lieutenant second lieutenants that have just transitioned to the f-35 are able to be battle
+
+567
+00:59:10,900 --> 00:59:16,020
+space commanders because they have the bandwidth they have they have the omniscience of what's
+
+568
+00:59:16,020 --> 00:59:19,780
+happening in the battle space they're making fourth generation airplanes better that are
+
+569
+00:59:19,780 --> 00:59:24,180
+collaborating with them well there you go and of course grants you can find the full interview
+
+570
+00:59:24,180 --> 00:59:29,860
+there in episode 42 of the australian defense magazine you can find that at australiandefense.com.au
+
+571
+00:59:29,860 --> 00:59:34,420
+and we do thank them for allowing us to use that audio in this program of course we do very proudly
+
+572
+00:59:34,420 --> 00:59:39,300
+produce that program on their behalf so it's always great to be able to you know get some
+
+573
+00:59:39,300 --> 00:59:44,180
+content out and run it in this show as well fantastic certainly is mate and a lot of fun
+
+574
+00:59:44,180 --> 00:59:50,900
+producing the australian defense magazine podcast as well but it does cover more than just aviation
+
+575
+00:59:50,900 --> 00:59:55,460
+but i think this episode has been chuck full of of content as our friends in the us would like to
+
+576
+00:59:55,460 --> 01:00:00,660
+say and it's probably time we start looking at wrapping this one up we do indeed thanks very
+
+577
+01:00:00,660 --> 01:00:04,900
+much for joining us of course we'd love to hear what you think about the f-35 lots of people have
+
+578
+01:00:04,900 --> 01:00:08,900
+lots of things to say about it we certainly hope that programs like this allow people to get a
+
+579
+01:00:08,900 --> 01:00:13,300
+much more detailed view on just what's going into that jet and some of the amazing technology
+
+580
+01:00:13,300 --> 01:00:18,340
+internet it really is amazing contact at plane crazy down under.com is where you can drop us
+
+581
+01:00:18,340 --> 01:00:22,420
+a line and we'd certainly love to hear from you on all sorts of topics about aviation we'll keep
+
+582
+01:00:22,420 --> 01:00:27,540
+the posty away from the mailbox this week because time is a little bit against us but we'd certainly
+
+583
+01:00:27,540 --> 01:00:32,500
+love to hear from you thanks very much for joining us thanks to lockheed martin for providing us with
+
+584
+01:00:32,500 --> 01:00:37,220
+the opportunity to get these interviews we really do appreciate it grant we'll be back with another
+
+585
+01:00:37,220 --> 01:00:41,220
+episode very very shortly yeah i think you're right there mate and there's some great content
+
+586
+01:00:41,220 --> 01:00:46,900
+already recorded some just about to be recorded and oh lots more in the queue we'll be back very
+
+587
+01:00:46,900 --> 01:00:52,740
+soon of course the gold coast pacific air show has just been run as we as we record this one we'll
+
+588
+01:00:52,740 --> 01:00:57,380
+have a wrap-up of that show in the next episode so keep an eye on the feed steve visher and grant
+
+589
+01:00:57,380 --> 01:01:03,140
+mcheron wishing you very safe flying folks and we'll talk to you again very soon find show notes
+
+590
+01:01:03,140 --> 01:01:07,460
+for this episode along with our contact details and a full back catalogue of shows
+
+591
+01:01:07,460 --> 01:01:13,460
+at plane crazy down under.com drop us a line anytime with feedback story suggestions or
+
+592
+01:01:13,460 --> 01:01:18,980
+advertising inquiries we'd love to hear from you title music is you name it by brian simpson
+
+593
+01:01:19,620 --> 01:01:32,900
+plane crazy down under is a southern skies media production
+
+594
+01:01:33,140 --> 01:01:36,900
+southern skies media
+

@@ -1,0 +1,10 @@
+-r requirements.txt
+pyperclip>=1.8.2
+pytest>=7.4.0
+pytest-cov>=4.1.0
+black>=23.7.0
+flake8>=6.1.0
+mypy>=1.5.1
+pre-commit>=3.3.3
+build>=0.10.0
+twine>=4.0.2

@@ -1,5 +1,10 @@
+# Base requirements
 -r requirements.txt
+
+# Optional dependencies
 pyperclip>=1.8.2
+
+# Development dependencies
 pytest>=7.4.0
 pytest-cov>=4.1.0
 black>=23.7.0
@@ -8,3 +13,19 @@ mypy>=1.5.1
 pre-commit>=3.3.3
 build>=0.10.0
 twine>=4.0.2
+
+# Additional linting and formatting
+isort>=5.12.0
+bandit>=1.7.5
+safety>=2.3.0
+
+# Type stubs
+types-requests>=2.31.0
+
+# Documentation (future use)
+sphinx>=7.0.0
+sphinx-rtd-theme>=1.3.0
+
+# Development utilities
+tox>=4.0.0
+coverage>=7.0.0

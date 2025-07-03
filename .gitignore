@@ -143,4 +143,20 @@ Thumbs.db
 # Project specific
 *.txt
 !requirements*.txt
+!example*.txt
 .deepl_apikey
+
+# API keys and secrets (security)
+api_key
+*.key
+secrets/
+.secrets/
+
+# Test files
+test_*.txt
+temp_*.txt
+
+# Local development
+.env.local
+.env.development
+.env.test

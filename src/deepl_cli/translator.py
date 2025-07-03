@@ -32,8 +32,8 @@ class DeepLTranslator:
     def _load_api_key(self) -> str:
         """Load API key from configuration file"""
         config_paths = [
-            Path.home() / '.config' / 'deepl-cli' / 'api_key',
-            Path.home() / '.config' / '.deepl_apikey',  # Legacy support
+            Path.home() / '.token' / '.deepl-cli' / 'api_key',
+            Path.home() / '.config' / 'deepl-cli' / 'api_key', # Legacy support
             Path.home() / '.deepl_apikey'
         ]
         

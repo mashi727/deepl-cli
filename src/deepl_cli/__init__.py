@@ -1,8 +1,8 @@
 """DeepL CLI - Command-line interface for DeepL translation"""
 
 __version__ = "0.1.0"
-__author__ = "Your Name"
-__email__ = "your.email@example.com"
+__author__ = "MASAMI Mashino"
+__email__ = "mashi.zzz@gmail.com"
 
 from .translator import DeepLTranslator
 from .clipboard import ClipboardManager

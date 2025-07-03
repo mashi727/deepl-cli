@@ -42,9 +42,9 @@ pip install -e .
 
 2. Create a configuration file:
 ```bash
-mkdir -p ~/.config/deepl-cli
-echo "YOUR_API_KEY" > ~/.config/deepl-cli/api_key
-chmod 600 ~/.config/deepl-cli/api_key
+mkdir -p ~/.token/deepl-cli
+echo "YOUR_API_KEY" > ~/.token/deepl-cli/api_key
+chmod 600 ~/.token/deepl-cli/api_key
 ```
 
 Alternatively, set the environment variable:
@@ -152,8 +152,8 @@ The CLI looks for API keys in the following locations (in order):
 
 1. Command line argument: `--api-key`
 2. Environment variable: `DEEPL_API_KEY`
-3. Config file: `~/.config/deepl-cli/api_key`
-4. Legacy config: `~/.config/.deepl_apikey`
+3. Config file: `~/.token/deepl-cli/api_key`
+4. Legacy config: `~/.config/deppl-cli/.deepl_apikey`
 5. Home directory: `~/.deepl_apikey`
 
 ## Development

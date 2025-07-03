@@ -5,19 +5,35 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "deepl-cli"
 version = "0.1.0"
-description = "A command-line interface for DeepL translation API"
+description = "A powerful and user-friendly command-line interface for DeepL translation API"
 readme = "README.md"
 requires-python = ">=3.8"
 license = {text = "MIT"}
 authors = [
     {name = "Your Name", email = "your.email@example.com"}
 ]
-keywords = ["deepl", "translation", "cli", "command-line", "i18n"]
+maintainers = [
+    {name = "Your Name", email = "your.email@example.com"}
+]
+keywords = [
+    "deepl",
+    "translation",
+    "cli",
+    "command-line",
+    "i18n",
+    "localization",
+    "language",
+    "translator",
+    "api-client"
+]
 classifiers = [
     "Development Status :: 4 - Beta",
     "Environment :: Console",
     "Intended Audience :: Developers",
+    "Intended Audience :: System Administrators",
+    "Intended Audience :: End Users/Desktop",
     "License :: OSI Approved :: MIT License",
+    "Natural Language :: English",
     "Operating System :: OS Independent",
     "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3.8",
@@ -25,8 +41,12 @@ classifiers = [
     "Programming Language :: Python :: 3.10",
     "Programming Language :: Python :: 3.11",
     "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: Implementation :: CPython",
     "Topic :: Software Development :: Internationalization",
+    "Topic :: Software Development :: Localization",
     "Topic :: Text Processing :: Linguistic",
+    "Topic :: Utilities",
+    "Typing :: Typed"
 ]
 
 dependencies = [
@@ -38,16 +58,29 @@ clipboard = ["pyperclip>=1.8.2"]
 dev = [
     "pytest>=7.4.0",
     "pytest-cov>=4.1.0",
+    "pytest-mock>=3.11.1",
     "black>=23.7.0",
     "flake8>=6.1.0",
     "mypy>=1.5.1",
     "pre-commit>=3.3.3",
+    "tox>=4.0.0",
+    "build>=0.10.0",
+    "twine>=4.0.2",
+    "wheel>=0.41.0"
 ]
+docs = [
+    "sphinx>=7.0.0",
+    "sphinx-rtd-theme>=1.3.0",
+    "sphinx-autodoc-typehints>=1.24.0"
+]
+all = ["deepl-cli[clipboard,dev,docs]"]
 
 [project.urls]
-Homepage = "https://github.com/${GITHUB_USERNAME}/deepl-cli"
-Repository = "https://github.com/${GITHUB_USERNAME}/deepl-cli.git"
-"Bug Tracker" = "https://github.com/${GITHUB_USERNAME}/deepl-cli/issues"
+Homepage = "https://github.com/YOUR_USERNAME/deepl-cli"
+Documentation = "https://deepl-cli.readthedocs.io"
+Repository = "https://github.com/YOUR_USERNAME/deepl-cli.git"
+"Bug Tracker" = "https://github.com/YOUR_USERNAME/deepl-cli/issues"
+Changelog = "https://github.com/YOUR_USERNAME/deepl-cli/blob/main/CHANGELOG.md"
 
 [project.scripts]
 deepl-cli = "deepl_cli.cli:main"
@@ -55,21 +88,129 @@ deepl = "deepl_cli.cli:main"
 
 [tool.setuptools]
 package-dir = {"" = "src"}
+include-package-data = true
 
 [tool.setuptools.packages.find]
 where = ["src"]
+include = ["deepl_cli*"]
+exclude = ["tests*"]
+
+[tool.setuptools.package-data]
+deepl_cli = ["py.typed"]
 
 [tool.black]
 line-length = 100
-target-version = ['py38']
+target-version = ['py38', 'py39', 'py310', 'py311', 'py312']
+include = '\.pyi?$'
+extend-exclude = '''
+/(
+  # directories
+  \.eggs
+  | \.git
+  | \.hg
+  | \.mypy_cache
+  | \.tox
+  | \.venv
+  | build
+  | dist
+)/
+'''
+
+[tool.isort]
+profile = "black"
+line_length = 100
+multi_line_output = 3
+include_trailing_comma = true
+force_grid_wrap = 0
+use_parentheses = true
+ensure_newline_before_comments = true
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
-python_files = ["test_*.py"]
-addopts = "--cov=src/deepl_cli --cov-report=term-missing"
+python_files = ["test_*.py", "*_test.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"]
+addopts = [
+    "--strict-markers",
+    "--cov=src/deepl_cli",
+    "--cov-report=term-missing:skip-covered",
+    "--cov-report=html",
+    "--cov-report=xml",
+    "--cov-branch",
+    "--cov-fail-under=80"
+]
+markers = [
+    "slow: marks tests as slow (deselect with '-m \"not slow\"')",
+    "integration: marks tests as integration tests",
+    "unit: marks tests as unit tests"
+]
 
 [tool.mypy]
 python_version = "3.8"
 warn_return_any = true
 warn_unused_configs = true
+disallow_untyped_defs = true
+disallow_incomplete_defs = true
+check_untyped_defs = true
+disallow_untyped_decorators = true
+no_implicit_optional = true
+warn_redundant_casts = true
+warn_unused_ignores = true
+warn_no_return = true
+warn_unreachable = true
+strict_equality = true
+pretty = true
+show_error_codes = true
+show_error_context = true
+show_column_numbers = true
+
+[[tool.mypy.overrides]]
+module = [
+    "deepl.*",
+    "pyperclip.*"
+]
 ignore_missing_imports = true
+
+[tool.coverage.run]
+source = ["src/deepl_cli"]
+branch = true
+parallel = true
+omit = [
+    "*/tests/*",
+    "*/__main__.py",
+]
+
+[tool.coverage.report]
+exclude_lines = [
+    "pragma: no cover",
+    "def __repr__",
+    "if self.debug:",
+    "if __name__ == .__main__.:",
+    "raise AssertionError",
+    "raise NotImplementedError",
+    "if TYPE_CHECKING:",
+]
+precision = 2
+show_missing = true
+
+[tool.bandit]
+exclude_dirs = ["tests", "venv", ".venv"]
+skips = ["B101"]  # Skip assert_used test
+
+[tool.flake8]
+max-line-length = 100
+extend-ignore = ["E203", "W503"]
+exclude = [
+    ".git",
+    "__pycache__",
+    "docs/source/conf.py",
+    "old",
+    "build",
+    "dist",
+    ".eggs",
+    "*.egg"
+]
+per-file-ignores = [
+    "__init__.py:F401",
+    "tests/*:S101"
+]

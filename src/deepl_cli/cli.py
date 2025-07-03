@@ -5,9 +5,11 @@ import os
 import argparse
 import logging
 from typing import Optional, NoReturn
+from pathlib import Path
 
 from .translator import DeepLTranslator
 from .clipboard import ClipboardManager
+from . import __version__
 
 
 logger = logging.getLogger(__name__)
@@ -112,13 +114,13 @@ Supported languages:
     parser.add_argument(
         '--version',
         action='version',
-        version='%(prog)s 0.1.0'
+        version=f'%(prog)s {__version__}'
     )
     
     return parser
 
 
-def read_input(args) -> str:
+def read_input(args: argparse.Namespace) -> str:
     """
     Read input text based on arguments
     
@@ -147,20 +149,26 @@ def read_input(args) -> str:
         
         # File mode
         if args.input_file:
-            try:
-                with open(args.input_file, 'r', encoding='utf-8') as f:
-                    content = f.read()
-                    if not content.strip():
-                        raise CLIError(f"Input file is empty: {args.input_file}")
-                    return content
-            except FileNotFoundError:
+            file_path = Path(args.input_file)
+            
+            if not file_path.exists():
                 raise CLIError(f"Input file not found: {args.input_file}")
+            
+            if not file_path.is_file():
+                raise CLIError(f"Not a file: {args.input_file}")
+            
+            try:
+                content = file_path.read_text(encoding='utf-8')
+                if not content.strip():
+                    raise CLIError(f"Input file is empty: {args.input_file}")
+                return content
             except PermissionError:
                 raise CLIError(f"Permission denied reading file: {args.input_file}")
             except UnicodeDecodeError:
-                raise CLIError(f"Unable to decode file as UTF-8: {args.input_file}")
-            except Exception as e:
-                raise CLIError(f"Failed to read file {args.input_file}: {e}")
+                raise CLIError(
+                    f"Unable to decode file as UTF-8: {args.input_file}\n"
+                    f"Please ensure the file is saved with UTF-8 encoding"
+                )
         
         raise CLIError(
             "No input provided. Use one of:\n"
@@ -176,7 +184,7 @@ def read_input(args) -> str:
         raise CLIError(f"Failed to read input: {e}")
 
 
-def write_output(text: str, args) -> None:
+def write_output(text: str, args: argparse.Namespace) -> None:
     """
     Write output text based on arguments
     
@@ -196,23 +204,25 @@ def write_output(text: str, args) -> None:
                     "Install with: pip install deepl-cli[clipboard]"
                 )
             ClipboardManager.write(text)
-            print("✓ Translation copied to clipboard!")
+            print("✓ Translation copied to clipboard!", file=sys.stderr)
             return
         
         # File output mode
         if args.output:
+            output_path = Path(args.output)
+            
+            # Create parent directories if they don't exist
+            output_path.parent.mkdir(parents=True, exist_ok=True)
+            
             try:
-                with open(args.output, 'w', encoding='utf-8') as f:
-                    f.write(text)
-                print(f"✓ Translation saved to: {args.output}")
+                output_path.write_text(text, encoding='utf-8')
+                print(f"✓ Translation saved to: {args.output}", file=sys.stderr)
                 return
             except PermissionError:
                 raise CLIError(f"Permission denied writing file: {args.output}")
-            except Exception as e:
-                raise CLIError(f"Failed to write file {args.output}: {e}")
         
         # Default: stdout
-        print(text)
+        print(text, end='')
         
     except CLIError:
         raise
@@ -239,6 +249,7 @@ def handle_list_languages() -> int:
         print()
     
     print(f"\nTotal: {len(languages)} languages supported")
+    print("\nUsage: deepl-cli <TARGET_LANG> [input_file]")
     return 0
 
 
@@ -254,24 +265,36 @@ def handle_usage(translator: DeepLTranslator) -> int:
     """
     try:
         usage = translator.get_usage()
+        
+        # Format numbers with thousands separator
+        used = f"{usage['character_count']:,}"
+        limit = f"{usage['character_limit']:,}"
+        remaining = f"{usage['character_limit'] - usage['character_count']:,}"
+        
         print("DeepL API Usage:")
-        print(f"  Characters used: {usage['character_count']:,}")
-        print(f"  Character limit: {usage['character_limit']:,}")
-        print(f"  Remaining: {usage['character_limit'] - usage['character_count']:,}")
+        print(f"  Characters used: {used}")
+        print(f"  Character limit: {limit}")
+        print(f"  Remaining: {remaining}")
         print(f"  Usage: {usage['usage_percentage']:.1f}%")
+        
+        # Progress bar
+        bar_width = 40
+        filled = int(bar_width * usage['usage_percentage'] / 100)
+        bar = "█" * filled + "░" * (bar_width - filled)
+        print(f"  [{bar}]")
         
         # Warning if usage is high
         if usage['usage_percentage'] > 90:
-            print("  ⚠️  Warning: API quota nearly exhausted!")
+            print("\n  ⚠️  Warning: API quota nearly exhausted!")
         elif usage['usage_percentage'] > 75:
-            print("  ⚠️  Warning: API quota usage is high")
+            print("\n  ⚠️  Warning: API quota usage is high")
             
         return 0
     except Exception as e:
         raise CLIError(f"Failed to retrieve usage information: {e}")
 
 
-def validate_arguments(args) -> None:
+def validate_arguments(args: argparse.Namespace) -> None:
     """
     Validate command-line arguments
     
@@ -286,7 +309,10 @@ def validate_arguments(args) -> None:
         return
     
     if not args.target_lang:
-        raise CLIError("Target language is required for translation")
+        raise CLIError(
+            "Target language is required for translation\n"
+            "Use --help for usage information"
+        )
     
     # Normalize and validate target language
     args.target_lang = args.target_lang.upper()
@@ -301,7 +327,10 @@ def validate_arguments(args) -> None:
     if args.source_lang:
         args.source_lang = args.source_lang.upper()
         if not DeepLTranslator.is_language_supported(args.source_lang):
-            raise CLIError(f"Unsupported source language: {args.source_lang}")
+            raise CLIError(
+                f"Unsupported source language: {args.source_lang}\n"
+                f"Use --list-languages to see available languages"
+            )
 
 
 def main() -> int:
@@ -337,6 +366,13 @@ def main() -> int:
         if not input_text.strip():
             raise CLIError("Input text is empty")
         
+        # Show progress for large texts
+        if len(input_text) > 10000:
+            print(
+                f"Translating {len(input_text):,} characters to {args.target_lang}...",
+                file=sys.stderr
+            )
+        
         # Perform translation
         logger.info(f"Translating to {args.target_lang}...")
         translated_text = translator.translate(
@@ -361,8 +397,9 @@ def main() -> int:
         print(f"Error: {e}", file=sys.stderr)
         return 1
     except Exception as e:
-        logger.error(f"Unexpected error: {e}")
-        print(f"Error: {e}", file=sys.stderr)
+        logger.exception("Unexpected error occurred")
+        print(f"Error: An unexpected error occurred: {e}", file=sys.stderr)
+        print("Please report this issue at: https://github.com/YOUR_USERNAME/deepl-cli/issues", file=sys.stderr)
         return 1
 
 

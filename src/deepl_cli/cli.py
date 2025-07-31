@@ -1,4 +1,4 @@
-"""Command-line interface implementation"""
+"""Command-line interface implementation with improved stdin support"""
 
 import sys
 import os
@@ -47,11 +47,29 @@ def create_parser() -> argparse.ArgumentParser:
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
-  %(prog)s JA "Hello, world!"        # Translate text directly
-  %(prog)s JA input.txt              # Translate file to Japanese
-  %(prog)s EN-US --clipboard         # Translate clipboard to English
-  echo "Hello" | %(prog)s JA         # Translate from pipe
-  %(prog)s --list-languages          # Show supported languages
+  # Direct text translation
+  %(prog)s JA "Hello, world!"
+  
+  # File translation
+  %(prog)s JA input.txt
+  
+  # Standard input (pipe)
+  echo "Hello, world!" | %(prog)s JA
+  cat input.txt | %(prog)s JA --stdin
+  
+  # Standard input with explicit flag
+  %(prog)s JA --stdin < input.txt
+  %(prog)s JA -
+  
+  # Clipboard translation
+  %(prog)s EN-US --clipboard
+  
+  # Output to file
+  %(prog)s JA input.txt -o output.txt
+  echo "Hello" | %(prog)s JA -o output.txt
+  
+  # List supported languages
+  %(prog)s --list-languages
 
 Supported languages:
   DE (German), EN-GB (English UK), EN-US (English US),
@@ -70,13 +88,19 @@ Supported languages:
     parser.add_argument(
         'input_text',
         nargs='?',
-        help='Text to translate or input file path'
+        help='Text to translate, file path, or "-" for stdin'
     )
 
     parser.add_argument(
         '-c', '--clipboard',
         action='store_true',
         help='Use clipboard for input/output'
+    )
+
+    parser.add_argument(
+        '--stdin',
+        action='store_true',
+        help='Read input from stdin (standard input)'
     )
 
     parser.add_argument(
@@ -135,18 +159,36 @@ def read_input(args: argparse.Namespace) -> str:
         CLIError: If input cannot be read
     """
     try:
-        # Clipboard mode
+        # Clipboard mode has highest priority
         if args.clipboard:
             if not ClipboardManager.is_available():
                 raise CLIError(
                     "Clipboard support not available. "
                     "Install with: pip install deepl-cli[clipboard]"
                 )
-            return ClipboardManager.read()
+            text = ClipboardManager.read()
+            logger.debug(f"Read {len(text)} characters from clipboard")
+            return text
 
-        # Stdin mode (pipe or redirect)
+        # Explicit stdin mode
+        if args.stdin or args.input_text == '-':
+            if sys.stdin.isatty():
+                # Terminal input - prompt user
+                print("Reading from stdin. Type your text and press Ctrl+D (Unix) or Ctrl+Z (Windows) to finish:", file=sys.stderr)
+            
+            text = sys.stdin.read()
+            if not text.strip():
+                raise CLIError("No input received from stdin")
+            
+            logger.debug(f"Read {len(text)} characters from stdin")
+            return text
+
+        # Auto-detect stdin (pipe or redirect)
         if not sys.stdin.isatty():
-            return sys.stdin.read()
+            text = sys.stdin.read()
+            if text.strip():  # Only use if there's actual content
+                logger.debug(f"Auto-detected stdin input: {len(text)} characters")
+                return text
 
         # Direct text or file mode
         if args.input_text:
@@ -159,6 +201,7 @@ def read_input(args: argparse.Namespace) -> str:
                     content = file_path.read_text(encoding='utf-8')
                     if not content.strip():
                         raise CLIError(f"Input file is empty: {args.input_text}")
+                    logger.debug(f"Read {len(content)} characters from file: {file_path}")
                     return content
                 except PermissionError:
                     raise CLIError(f"Permission denied reading file: {args.input_text}")
@@ -169,14 +212,17 @@ def read_input(args: argparse.Namespace) -> str:
                     )
             else:
                 # It's direct text input
+                logger.debug(f"Using direct text input: {len(args.input_text)} characters")
                 return args.input_text
 
         raise CLIError(
             "No input provided. Use one of:\n"
             "  - Provide text directly: deepl-cli JA \"Hello, world!\"\n"
             "  - Provide input file path: deepl-cli JA input.txt\n"
+            "  - Use stdin: echo 'text' | deepl-cli JA\n"
+            "  - Use stdin explicitly: deepl-cli JA --stdin\n"
+            "  - Use stdin with dash: deepl-cli JA -\n"
             "  - Use --clipboard for clipboard input\n"
-            "  - Pipe text: echo 'text' | deepl-cli JA\n"
             "  - Use --help for more information"
         )
 
@@ -252,6 +298,8 @@ def handle_list_languages() -> int:
 
     print(f"\nTotal: {len(languages)} languages supported")
     print("\nUsage: deepl-cli <TARGET_LANG> [input_text or file]")
+    print("       deepl-cli <TARGET_LANG> --stdin")
+    print("       deepl-cli <TARGET_LANG> -")
     return 0
 
 
@@ -333,6 +381,12 @@ def validate_arguments(args: argparse.Namespace) -> None:
                 f"Unsupported source language: {args.source_lang}\n"
                 f"Use --list-languages to see available languages"
             )
+
+    # Validate conflicting options
+    if args.clipboard and (args.stdin or args.input_text == '-'):
+        raise CLIError(
+            "Cannot use --clipboard with --stdin or '-' simultaneously"
+        )
 
 
 def main() -> int:
